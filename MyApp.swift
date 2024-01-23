@@ -7,6 +7,8 @@ struct MyApp: App {
             StepperView()
             //DatePickerView()
             //WorkingWithDates()
+            //ListView()
+            ListViewWithArrays()
         }
     }
 }
